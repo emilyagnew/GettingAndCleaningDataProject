@@ -4,11 +4,11 @@ Course Project
 
 The R code in this repo takes the original dataset (further information below) and converts to a tidy dataset for analysis.
 The R script called run_analysis.R does the following:
-1) Merges the training and the test sets to create one data set.
-2) Extracts only the measurements on the mean and standard deviation for each measurement. (Using only those variables for which there are both mean and standard deviation measurements.)
-3) Uses descriptive activity names to name the activities in the data set
-4) Appropriately labels the data set with descriptive variable names. 
-5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+- Merges the training and the test sets to create one data set.
+- Extracts only the measurements on the mean and standard deviation for each measurement. (Using only those variables for which there are both mean and standard deviation measurements.)
+- Uses descriptive activity names to name the activities in the data set
+- Appropriately labels the data set with descriptive variable names. 
+- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
 ORIGINAL README.md FILE PASTED BELOW:
